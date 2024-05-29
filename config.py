@@ -9,6 +9,6 @@ HOST = "localhost"  # redis host uri
 PORT = 6379  # redis port
 PASSWORD = ""  # redis password
 
-PRIVATE_CHAT_ID = -1001234567890  # CHAT WHERE YOU WANT TO STORE VIDEOS
-COOKIE = ""  # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E=" (don't use this)
+PRIVATE_CHAT_ID = -1001689617681  # CHAT WHERE YOU WANT TO STORE VIDEOS
+COOKIE = "csrfToken=vcxlaLDGuXLfOhBtAfvPf40q; browserid=lmRLbHoMdiqCNKjuYLr72kSyGh4HtMtcJim7mcRuKnuIi0jHnDGN9XS0otODJ-dWLzFgBLJ12Cw4ajQk; lang=en; TSID=Z29Hjm5AKOqE23DwZJyii6T4VS3ypwLJ; __bid_n=18b62a24d7de64faf04207; g_state={"i_l":0}; ndus=Yb_U18HteHuiffmj99-KltZlfpkUDnTz6LJDe2qM; ab_sr=1.0.1_M2Y4MzE1NDYwMzRhM2JjM2IyYTEyMGE3NDFlNmU0ZTdhMTgxYjA0OWM2OTM3ZWM0YjBhNzcxYTEyZmNlOWVjMjI1NzA1NDVjY2FmODE5NjdjY2Y2YjM2MjRiZGY3NTgzNTVmMTA1ODYyZTlkMmM4MDEzN2U3YjkzNTRmYTU4YzlkNzhmNDY0MDhhNDg5YjkwZDU4ZDJhZDMwZWFmZDUwMw==; _ga=GA1.1.975490648.1716985278; ndut_fmt=6263F57065A493ADC04CB26B3C7916B8DEF2309CFCF607D2DD815F762FFEB13A; _ga_06ZNKL8C2E=GS1.1.1716985277.1.0.1716985279.58.0.0"  # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E=" (don't use this)
 ADMINS = [1226270709]
